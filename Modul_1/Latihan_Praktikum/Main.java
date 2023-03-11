@@ -1,3 +1,5 @@
+package Latihan_Praktikum;
+
 import java.util.ArrayList;
 
 public class Main {

@@ -1,3 +1,5 @@
+package Latihan_Praktikum;
+
 public class Kota<Element> {
     private Element element;
 

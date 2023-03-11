@@ -1,3 +1,5 @@
+package Latihan_Praktikum;
+
 public class Konsumsi<Element, Element1> {
     private Element makanan;
     private Element1 minuman;

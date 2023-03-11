@@ -1,3 +1,5 @@
+package Latihan_Praktikum;
+
 public class Hidangan {
     protected String namaHidangan;
 

@@ -1,3 +1,5 @@
+package Tugas_Praktikum;
+
 import java.util.Scanner;
 
 /**
