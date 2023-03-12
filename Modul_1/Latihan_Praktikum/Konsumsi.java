@@ -1,18 +1,18 @@
 package Latihan_Praktikum;
 
-public class Konsumsi<Element, Element1> {
-    private Element makanan;
-    private Element1 minuman;
+public class Konsumsi<M, I> {
+    private M makanan;
+    private I minuman;
 
-    public Element getMakanan(){
+    public M getMakanan(){
         return makanan;
     }
 
-    public Element1 getMinuman() {
+    public I getMinuman() {
         return minuman;
     }
 
-    public void setKonsumsi(Element makanan, Element1 minuman){
+    public void setKonsumsi(M makanan, I minuman){
         this.makanan = makanan;
         this.minuman = minuman;
     }

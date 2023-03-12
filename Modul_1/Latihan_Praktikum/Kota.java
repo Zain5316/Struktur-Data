@@ -1,13 +1,13 @@
 package Latihan_Praktikum;
 
-public class Kota<Element> {
-    private Element element;
+public class Kota<E> {
+    private E element;
 
-    public Kota(Element kota){
+    public Kota(E kota){
         element = kota;
     }
 
-    public Element getElement() {
+    public E getElement() {
         return element;
     }
 
